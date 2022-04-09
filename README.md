@@ -20,6 +20,7 @@ I specialize in backend development, but I have some experience with frontend de
 | [PongoBRIX](https://github.com/pixelomer/PongoBRIX) | C | The first game ever made for pongoOS |
 | [PreparingTheKanji](https://github.com/pixelomer/PreparingTheKanji) | TypeScript | Easily add kanji stories to your Anki cards |
 | [sl-web](https://github.com/pixelomer/sl-web) | TypeScript | `sl` command line program as a web app |
+| [Inefficient Hexagon](https://github.com/pixelomer/InefficientHexagon) | Objective-C | A Super Hexagon clone made with just UIKit |
 | [TweakReviewsDB](https://tweakreviews.pixelomer.com) | TypeScript, Objective-C | Platform for reviewing iOS tweaks |
 
 ## 📫 Contact me
