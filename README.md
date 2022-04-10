@@ -18,7 +18,7 @@ I specialize in backend development, but I have some experience with frontend de
 | [Inefficient Hexagon](https://github.com/pixelomer/InefficientHexagon) | Objective-C | A Super Hexagon clone made with just UIKit |
 | [MobileGoose](https://github.com/pixelomer/MobileGoose) | Objective-C | An annoying goose for your iPhone, featured on [TheTechSpot](https://youtu.be/4mJEUCCt0D0) and [EverythingApplePro](https://youtu.be/G7-jiu-S3yw?t=317) |
 | [MobileMeadow](https://github.com/pixelomer/MobileMeadow) | Objective-C | Turn your iPhone into a meadow |
-| [NotAnImpostor](https://github.com/pixelomer/NotAnImpostor) | Objective-C | An iOS tweak that adds Among Us  characters to your background |
+| [NotAnImpostor](https://github.com/pixelomer/NotAnImpostor) | Objective-C | An iOS tweak that adds Among Us characters to your background |
 | [PongoBRIX](https://github.com/pixelomer/PongoBRIX) | C | The first game ever made for pongoOS |
 | [PreparingTheKanji](https://github.com/pixelomer/PreparingTheKanji) | TypeScript | Easily add kanji stories to your Anki cards |
 | [sl-web](https://github.com/pixelomer/sl-web) | TypeScript | `sl` command line program as a web app |
