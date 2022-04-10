@@ -13,6 +13,7 @@ I specialize in backend development, but I have some experience with frontend de
 | [Celeste-ARM64](https://github.com/pixelomer/Celeste-ARM64) | Bash, C | Run modded Celeste on the Nintendo Switch |
 | [CelesteNet Discord Bridge](https://github.com/pixelomer/CelesteNet-Discord-Bridge) | C# | Celeste mod for redirecting in-game messages to Discord |
 | [Chip8-SmallBasic](https://github.com/pixelomer/Chip8-SmallBasic) | SmallBasic | A CHIP-8 emulator written in SmallBasic, a very limited programming language for kids. ~~I still don't know why I did this~~ |
+| [CodeStories](https://github.com/pixelomer/CodeStories) | Objective-C | iOS client for [Visual Studio Code Stories](https://marketplace.visualstudio.com/items?itemName=bar9.stories) |
 | [discord-fs](https://github.com/pixelomer/discord-fs) | TypeScript | Discord as a filesystem, made with [AnyFS](https://github.com/pixelomer/AnyFS) |
 | [Inefficient Hexagon](https://github.com/pixelomer/InefficientHexagon) | Objective-C | A Super Hexagon clone made with just UIKit |
 | [MobileGoose](https://github.com/pixelomer/MobileGoose) | Objective-C | An annoying goose for your iPhone, featured on [TheTechSpot](https://youtu.be/4mJEUCCt0D0) and [EverythingApplePro](https://youtu.be/G7-jiu-S3yw?t=317) |
