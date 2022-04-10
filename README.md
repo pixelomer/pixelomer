@@ -23,6 +23,7 @@ I specialize in backend development, but I have some experience with frontend de
 | [PkgHistory](https://github.com/pixelomer/PkgHistory) | Objective-C | Package history tracker for jailbroken iOS devices, featured on [iDownloadBlog](https://www.idownloadblog.com/2020/08/04/pkghistory/) |
 | [PongoBRIX](https://github.com/pixelomer/PongoBRIX) | C | The first game ever made for pongoOS |
 | [PreparingTheKanji](https://github.com/pixelomer/PreparingTheKanji) | TypeScript | Easily add kanji stories to your Anki cards |
+| [rpi-lcd-server](https://github.com/pixelomer/rpi-lcd-server) | TypeScript | General-purpose program for showing statistics on a Raspberry Pi with an LCD display |
 | [sl-web](https://github.com/pixelomer/sl-web) | TypeScript | `sl` command line program as a web app |
 | [TweakReviewsDB](https://tweakreviews.pixelomer.com) | TypeScript, Objective-C | Platform for reviewing iOS tweaks |
 
