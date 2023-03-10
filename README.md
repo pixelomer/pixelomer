@@ -7,6 +7,7 @@ I mix tools that were never meant to be used together and watch as hilarity ensu
 - An annoying goose for iPhone: [MobileGoose](https://github.com/pixelomer/MobileGoose)
 - `sl` train that travels between computers: [sl-web](https://github.com/pixelomer/sl-web)
 - Archiving all types of files as videos: [bin2video](https://github.com/pixelomer/bin2video)
+- A CHIP-8 emulator written in SmallBasic, a language with no bitwise operations: [Chip8-SmallBasic](https://github.com/pixelomer/Chip8-SmallBasic)
 
 I also created [TweakReviewsDB](https://tweakreviews.pixelomer.com), a platform for reviewing tweaks and applications for jailbroken devices.
 
