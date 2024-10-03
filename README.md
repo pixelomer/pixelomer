@@ -1,6 +1,6 @@
 ## Shijima is now out! - Desktop pets meet iOS
 
-![Shijima screenshot](shijima-screenshot.png =553x250)
+<img src="shijima-screenshot.png" width=442 height=200>
 
 <img src="shijima-icon.png" height=50> <a href="https://havoc.app/package/shijima"><img src="get-it-on-havoc.png" height=50></a>
 <br>
