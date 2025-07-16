@@ -2,7 +2,8 @@
 
 I mix tools that were never meant to be used together and watch as hilarity ensues.
 
-- Shimeji desktop pets for iOS and iPadOS: [Shijima](https://havoc.app/package/shijima)
+- Shimeji desktop pets for iOS and iPadOS: [Shijima on Havoc Marketplace](https://havoc.app/package/shijima)
+- ...and also for Android: [Shijima on Google Play](https://play.google.com/store/apps/details?id=com.pixelomer.shijima)
 - ...and also for Windows, macOS and Linux: [Shijima-Qt](https://github.com/pixelomer/Shijima-Qt)
 - ...and also for Nintendo Switch: [Shijima-NX](https://github.com/pixelomer/Shijima-NX)
 - ...and also for the Wii: [Shijima-Wii](https://github.com/pixelomer/Shijima-Wii)
