@@ -6,7 +6,7 @@ I mix tools that were never meant to be used together and watch as hilarity ensu
 - ...and also for Android: [Shijima on Google Play](https://play.google.com/store/apps/details?id=com.pixelomer.shijima)
 - ...and also for Windows, macOS and Linux: [Shijima-Qt](https://github.com/pixelomer/Shijima-Qt)
 - ...and also for Nintendo Switch: [Shijima-NX](https://github.com/pixelomer/Shijima-NX)
-- ...and also for the Wii: [Shijima-Wii](https://github.com/pixelomer/Shijima-Wii)
+- ...and also for Nintendo Wii: [Shijima-Wii](https://github.com/pixelomer/Shijima-Wii)
 - Breakout game for pongoOS, the iOS pre-boot environment: [PongoBRIX](https://github.com/pixelomer/PongoBRIX)
 - Discord as a FUSE filesystem: [discord-fs](https://github.com/pixelomer/discord-fs)
 - An annoying goose for iPhone: [MobileGoose](https://github.com/pixelomer/MobileGoose)
